@@ -1,5 +1,5 @@
 
-const MAXIMOS_INTENTOS = 15, // Intentos máximos que tiene el jugador
+const MAXIMOS_INTENTOS = 20, // Intentos máximos que tiene el jugador
     COLUMNAS = 5, // Columnas del juego
     SEGUNDOS_ESPERA_VOLTEAR_IMAGEN = 1, // Por cuántos segundos mostrar ambas imágenes
     NOMBRE_IMAGEN_OCULTA = "./img/pregunta.png"; // La imagen que se muestra cuando la real está oculta
